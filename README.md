@@ -1,8 +1,8 @@
 <header>
 <h1>ITMD-361 Internet Technologies and Web Design</h1>
 ITMD-361 Internet Technologies and Web Design</header>
-    
-<h3>Spring,2026</h3>
+   
+<h2>Spring,2026</h2>
 <p>khalid love_klove3@hawk.illinoistech.edu</p>
 <h2>Professor:</h2>
 <p>Daniel Krieglstein</p>
