@@ -5,8 +5,8 @@
 </head>
 <body>
     
-    <!-- Main content -->
-	<h1>ITMD-361 Internet Technologies and Web Design</h1>
+    <header>
+ <h1>ITMD-361 Internet Technologies and Web Design</h1>
 ITMD-361 Internet Technologies and Web Design</header>
     
 <h3>Spring,2026</h3>
