@@ -1,7 +1,5 @@
 <html lang="en">
-<head>
-    <!-- Character encoding -->
-    <meta charset="UTF
+<header>
 <h1>ITMD-361 Internet Technologies and Web Design</h1>
 ITMD-361 Internet Technologies and Web Design</header>
     
@@ -34,12 +32,4 @@ This course will cover the creation of Web pages and sites using HTML, CSS, Java
     <main>
         <p>This is a basic HTML5 skeleton structure.</p>
     </main>
-    
-    <footer>
         <p>&copy; 2026 My Website</p>
-    </footer>
-    
-    <!-- External JavaScript (optional) -->
-    <script src="script.js"></script>
-</body>
-</html>
