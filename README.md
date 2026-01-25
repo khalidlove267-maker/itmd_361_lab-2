@@ -17,7 +17,7 @@ This course will cover the creation of Web pages and sites using HTML, CSS, Java
   •Select the proper mark-up tags or code to achieve a particular result.
   
   •Identify improperly used markup and code.
-  
+
   •Produce modern standards compliant web pages.
   
   •Deploy web pages to a GitHub server.
