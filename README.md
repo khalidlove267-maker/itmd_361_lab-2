@@ -33,7 +33,8 @@ ITMD-361 Internet Technologies and Web Design</header>
 <h2>This course will cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Web site including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. Students design and create a major Web site with multiple pages and cross-linked structures. Prerequisites: [none] Credit: 2-2-3 Semester Hours</h2>
 <h2>Course Outcomes:</h2>
 <p>Students completing this course will be able to:</p>
-Recognize HTML, CSS, and JavaScript markup and code.
+  Recognize HTML, CSS, and JavaScript markup and code.
+  
   Select the proper mark-up tags or code to achieve a particular result.
 
   Identify improperly used markup and code.
@@ -43,9 +44,11 @@ Recognize HTML, CSS, and JavaScript markup and code.
   Deploy web pages to a GitHub server.
 <h2>Course Objectives:</h2>
 <p>At the conclusion of this course, each successful student will able to:</p>
- the client and server architecture of both the internet and related web technologies.
-Use a basic text editor and other software tools to create web pages written in HTML, CSS, JavaScript, and jQuery.
-Deploy web pages to a Gethub using version control and Github Desktop.
+  the client and server architecture of both the internet and related web technologies.
+  
+  Use a basic text editor and other software tools to create web pages written in HTML, CSS, JavaScript, and jQuery.
+  
+  Deploy web pages to a Gethub using version control and Github Desktop.
     <main>
         <p>This is a basic HTML5 skeleton structure.</p>
     </main>
