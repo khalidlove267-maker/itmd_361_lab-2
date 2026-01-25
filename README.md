@@ -6,10 +6,6 @@
 <body>
     
     <!-- Main content -->
-    <header>
-        <h1>internet technologies and web Design</h1>
-    </header>
-	<header>
 	<h1>ITMD-361 Internet Technologies and Web Design</h1>
 ITMD-361 Internet Technologies and Web Design</header>
     
