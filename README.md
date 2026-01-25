@@ -1,18 +1,7 @@
 <html lang="en">
 <head>
     <!-- Character encoding -->
-    <meta charset="UTF-8">
-    
-    <!-- Viewport for responsive design -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- Page title -->
-    <title>internet technologies and web Design</title>
-    
-    <!-- Meta description for SEO -->
-    <meta name="description" content="A basic HTML5 skeleton template.">
-    
-  
+    <meta charset="UTF-8"  
 </head>
 <body>
     
