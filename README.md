@@ -5,7 +5,6 @@
 </head>
 <body>
     
-    <header>
  <h1>ITMD-361 Internet Technologies and Web Design</h1>
 ITMD-361 Internet Technologies and Web Design</header>
     
