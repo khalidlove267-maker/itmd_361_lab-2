@@ -13,11 +13,7 @@
     <!-- Meta description for SEO -->
     <meta name="description" content="A basic HTML5 skeleton template.">
     
-    <!-- Favicon (optional) -->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    
-    <!-- External CSS (optional) -->
-    <link rel="stylesheet" href="styles.css">
+  
 </head>
 <body>
     
