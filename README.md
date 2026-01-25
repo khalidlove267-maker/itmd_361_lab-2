@@ -34,10 +34,10 @@ ITMD-361 Internet Technologies and Web Design</header>
 <h2>Course Outcomes:</h2>
 <p>Students completing this course will be able to:</p>
 Recognize HTML, CSS, and JavaScript markup and code.
-(u+2022)Select the proper mark-up tags or code to achieve a particular result.
-(u+2022)Identify improperly used markup and code.
-(u+2022)Produce modern standards compliant web pages.
-(u+2022)Deploy web pages to a GitHub server.
+  Select the proper mark-up tags or code to achieve a particular result.
+  Identify improperly used markup and code.
+  Produce modern standards compliant web pages.
+  Deploy web pages to a GitHub server.
 <h2>Course Objectives:</h2>
 <p>At the conclusion of this course, each successful student will able to:</p>
  the client and server architecture of both the internet and related web technologies.
