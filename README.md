@@ -9,7 +9,7 @@ ITMD-361 Internet Technologies and Web Design</header>
 <h2>Lecture Days, Time and Place:</h2>
 <p>wednesday 6:25pm to 9:05pm, hermann hall</p>
 <h2>Course catalog Description:</h2>
-This course will cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Web site including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. Students design and create a major Web site with multiple pages and cross-linked structures. Prerequisites: [none] Credit: 2-2-3 Semester Hours
+This course will cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Web site including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. Students design and create a major Web site with multiple pages and cross-linked structures. <strong>Prerequisites:</strong>[none]<strong>Credit:</strong>: 2-2-3 Semester Hours
 <h2>Course Outcomes:</h2>
 <p>Students completing this course will be able to:</p>
   •Recognize HTML, CSS, and JavaScript markup and code.
